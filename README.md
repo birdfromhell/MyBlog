@@ -31,8 +31,10 @@ This Website Make With
 ## Screenshots
 Home Page
 ![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/home%20page.png)
+
 Login Page
 ![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/login.png)
+
 Admin Panel
 ![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/Admin.png)
 
