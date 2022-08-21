@@ -120,7 +120,7 @@ if(isset($_POST['draft'])){
 
 <section class="post-editor">
 
-   <h1 class="heading">add new post</h1>
+   <h1 class="heading">Add new post</h1>
 
    <form action="" method="post" enctype="multipart/form-data">
       <input type="hidden" name="name" value="<?= $fetch_profile['name']; ?>">
@@ -153,7 +153,7 @@ if(isset($_POST['draft'])){
          <option value="shopping">shopping</option>
          <option value="animations">animations</option>
       </select>
-      <p>post image</p>
+      <p>Post image</p>
       <input type="file" name="image" class="box" accept="image/jpg, image/jpeg, image/png, image/webp">
       <div class="flex-btn">
          <input type="submit" value="publish post" name="publish" class="btn">

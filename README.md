@@ -20,8 +20,8 @@ This Website Make With
 - Multi Author
 - Login System
 - Simple Ui
-- Resfonsive Design
-- Liki & Comment System
+- Responsive Design
+- Like & Comment System
 - Admin Panel
 
 
