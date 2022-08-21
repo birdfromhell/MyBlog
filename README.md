@@ -29,7 +29,7 @@ This Website Make With
 - [ ]  Improved UI
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/home%20page.png)
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 

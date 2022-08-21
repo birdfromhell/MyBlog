@@ -1,8 +1,8 @@
 <?php
 
-   $db_name = 'mysql:host=sql307.epizy.com;dbname=epiz_32427380_blog';
-   $user_name = 'epiz_32427380';
-   $user_password = 'lLSWBGCzAt';
+   $db_name = 'mysql:host=localhost;dbname=blog_db';
+   $user_name = 'root';
+   $user_password = '';
 
    $conn = new PDO($db_name, $user_name, $user_password);
 
