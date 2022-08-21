@@ -22,16 +22,19 @@ This Website Make With
 - Simple Ui
 - Resfonsive Design
 - Liki & Comment System
+- Admin Panel
 
 
 ## To Do
 - [ ]  Share Function
 - [ ]  Improved UI
 ## Screenshots
-
+Home Page
 ![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/home%20page.png)
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Login Page
+![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/login.png)
+Admin Panel
+![App Screenshot](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/Admin.png)
 
 
 
