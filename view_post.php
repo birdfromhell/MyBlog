@@ -189,7 +189,7 @@ if(isset($_POST['delete_comment'])){
    }else{
    ?>
    <div class="add-comment">
-      <p>please login to add or edit your comment</p>
+      <p>Please login to add or edit your comment</p>
       <a href="login.php" class="inline-btn">login now</a>
    </div>
    <?php
@@ -228,7 +228,7 @@ if(isset($_POST['delete_comment'])){
       <?php
             }
          }else{
-            echo '<p class="empty">no comments added yet!</p>';
+            echo '<p class="empty">Tidak Ada Comment</p>';
          }
       ?>
    </div>
