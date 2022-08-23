@@ -35,6 +35,7 @@ if(isset($message)){
          <a href="authors.php"> <i class="fas fa-angle-right"></i> Penulis</a>
          <a href="login.php"> <i class="fas fa-angle-right"></i> login</a>
          <a href="register.php"> <i class="fas fa-angle-right"></i> Daftar</a>
+         <a href="admin/admin_login.php"> <i class="fas fa-angle-right"></i> Author Login</a>
       </nav>
 
       <div class="profile">

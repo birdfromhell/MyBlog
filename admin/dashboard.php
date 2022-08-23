@@ -35,14 +35,14 @@ if(!isset($admin_id)){
 
 <section class="dashboard">
 
-   <h1 class="heading">dashboard</h1>
+   <h1 class="heading">Dashboard</h1>
 
    <div class="box-container">
 
    <div class="box">
-      <h3>welcome!</h3>
+      <h3>Welcome Back!</h3>
       <p><?= $fetch_profile['name']; ?></p>
-      <a href="update_profile.php" class="btn">update profile</a>
+      <a href="update_profile.php" class="btn">Update profile</a>
    </div>
 
    <div class="box">
@@ -53,7 +53,7 @@ if(!isset($admin_id)){
       ?>
       <h3><?= $numbers_of_posts; ?></h3>
       <p>posts added</p>
-      <a href="add_posts.php" class="btn">add new post</a>
+      <a href="add_posts.php" class="btn">Add new post</a>
    </div>
 
    <div class="box">
@@ -64,7 +64,7 @@ if(!isset($admin_id)){
       ?>
       <h3><?= $numbers_of_active_posts; ?></h3>
       <p>active posts</p>
-      <a href="view_posts.php" class="btn">see posts</a>
+      <a href="view_posts.php" class="btn">See posts</a>
    </div>
 
    <div class="box">
@@ -86,7 +86,7 @@ if(!isset($admin_id)){
       ?>
       <h3><?= $numbers_of_users; ?></h3>
       <p>users account</p>
-      <a href="users_accounts.php" class="btn">see users</a>
+      <a href="users_accounts.php" class="btn">See users</a>
    </div>
 
    <div class="box">
@@ -109,7 +109,7 @@ if(!isset($admin_id)){
       ?>
       <h3><?= $numbers_of_comments; ?></h3>
       <p>comments added</p>
-      <a href="comments.php" class="btn">see comments</a>
+      <a href="comments.php" class="btn">See comments</a>
    </div>
 
    <div class="box">
@@ -121,7 +121,7 @@ if(!isset($admin_id)){
       ?>
       <h3><?= $numbers_of_likes; ?></h3>
       <p>total likes</p>
-      <a href="view_posts.php" class="btn">see posts</a>
+      <a href="view_posts.php" class="btn">See posts</a>
    </div>
 
    </div>

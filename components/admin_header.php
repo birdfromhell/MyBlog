@@ -34,8 +34,7 @@ if(isset($message)){
    </nav>
 
    <div class="flex-btn">
-      <a href="admin_login.php" class="option-btn">Login</a>
-      <a href="register_admin.php" class="option-btn">Register</a>
+      <a href="register_admin.php" class="option-btn">Tambahkan Author baru</a>
    </div>
 
 </header>

@@ -21,7 +21,7 @@ include 'components/like_post.php';
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script id='pixel-script-poptin' src='https://cdn.popt.in/pixel.js?id=1bfa6b806c433' async='true'></script>
-    <title>home page</title>
+    <title>Beranda</title>
 
    <!-- font awesome cdn link  -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -40,7 +40,7 @@ include 'components/like_post.php';
              border-radius: 25px;
              border:BLACK 2px SOLID"
              height="25px">
-        Website Ini Dalam Pengembangan!!!
+        Website Ini Dalam Tahap Pengembangan!!!
     </marquee>
    <h1 class="heading">latest Posts</h1>
 
@@ -102,7 +102,7 @@ include 'components/like_post.php';
    </div>
 
    <div class="more-btn" style="text-align: center; margin-top:1rem;">
-      <a href="posts.php" class="inline-btn">Lihat Semua a</a>
+      <a href="posts.php" class="inline-btn">Lihat Semua</a>
    </div>
 
 </section>
