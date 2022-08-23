@@ -63,7 +63,8 @@ https://example.com
 ![brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
+<br>
+<br>
 
 ![Scratch](https://github.com/birdfromhell/BlogWithPurePhp/blob/main/screenshot/not-from-scratch.svg)
 
