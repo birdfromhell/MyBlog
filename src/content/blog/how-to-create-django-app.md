@@ -13,6 +13,9 @@ description: Some rules & recommendations for creating or adding new posts using
   theme.
 
 ---
+
+![](/media/v1680113556/Blogs/data_ycblra.png)
+
 If you're looking to make a website with the Django framework, you're in luck. Django is a powerful, open-source web framework that makes it easy to build web applications quickly and efficiently. In this article, we'll walk you through the steps to create a website with Django.
 
 Step 1: Install Django
