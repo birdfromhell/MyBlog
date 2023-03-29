@@ -6,12 +6,12 @@ postSlug: how-to-create-django-app
 featured: true
 draft: false
 tags:
-  - django
-  - Python
-ogImage: ""
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
+- django
+- Python
+ogImage: ''
+description: Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
+
 ---
 If you're looking to make a website with the Django framework, you're in luck. Django is a powerful, open-source web framework that makes it easy to build web applications quickly and efficiently. In this article, we'll walk you through the steps to create a website with Django.
 
