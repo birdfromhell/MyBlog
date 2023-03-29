@@ -11,6 +11,7 @@ fields:
 - type: datetime
   name: pubDatetime
   label: pubDatetime
+  default: now
 - type: text
   name: title
   label: title
