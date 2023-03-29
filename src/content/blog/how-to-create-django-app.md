@@ -1,6 +1,6 @@
 ---
 author: Ababil
-pubDatetime: 2023-03-30T00:29:00Z
+pubDatetime: 2023-03-30T00:29:00.000+00:00
 title: How to Create Django App
 postSlug: how-to-create-django-app
 featured: true
@@ -8,7 +8,7 @@ draft: false
 tags:
 - django
 - Python
-ogImage: ''
+ogImage: https://res.cloudinary.com/dcw1hgt69/image/upload/v1680113556/Blogs/data_ycblra.png
 description: Some rules & recommendations for creating or adding new posts using AstroPaper
   theme.
 
