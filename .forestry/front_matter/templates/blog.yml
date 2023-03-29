@@ -5,6 +5,9 @@ fields:
 - type: text
   name: author
   label: author
+  config:
+    required: false
+  default: Ababil Mustax
 - type: datetime
   name: pubDatetime
   label: pubDatetime
