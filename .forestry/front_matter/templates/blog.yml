@@ -35,5 +35,3 @@ fields:
 - type: text
   name: description
   label: description
-pages:
-- src/content/blog/test-admin-panel.md
